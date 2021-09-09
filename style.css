@@ -1,0 +1,39 @@
+.banner {
+  background: url(./background.jpg) 
+  no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color:black;
+  background-color: plum;
+} 
+
+.h4 {
+  font-size: 20px;
+  font-weight: bold;
+  color: black solid;
+  background-color: #fff;
+}
+.about img{
+width: 108px;
+height: 220ppx;
+padding: 10px;
+}
+.about h4 {
+  text-align: center;
+  padding: 20px;
+}
+.row{
+  background-color: plum;
+  width: 100%;
+  padding: 100px;
+}
+.container-fluid{
+  width: 400px;
+  height: 400px;
+}
+.col-4{
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
